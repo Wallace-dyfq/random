@@ -80,13 +80,18 @@ categories: jekyll update
 z}$
 - consider a cylinder of material and find the elastic strain energy
 of dislocation (screw)
+
+
 ## Strain energy of a dislocation
 - edge dislocation
+
+
 ## Line tension
 - line tension is the change in strain energy when the dislocation is
 extended by a unit length
 - equal to the energy/length
 - analogous to surface tension in a fluid
+
 ## Glide force f on a dislocation
 - force exerted on a dislocation, normal to the dislocation line, when
 a stress is applied.
@@ -105,7 +110,8 @@ moves completely through a crystal
 motion
   + solid solution hardening
   + precipitation hardening
-  + dispersion hardening 
+  + dispersion hardening
+  
 ## Solid solution hardening
 - individual solute atoms dissolved in primary metal
 - elastic interaction between solute + primary metal
@@ -119,15 +125,22 @@ motion
 - precipitates are weak obstacles to dislocation motion
 - dislocations can cut through their lattice
 - work done in doing so raise $\sigma_y$
+
+
 ## Dispersion hardening
 - dispersion - compound introduced into a crystal
 - typically choose ceramics that are hard + strong
 - dislocations cannot cut through dispersion
 - dislocation bow out between dispersion particles (pinned)
+
+
 ## Grain boundary strengthening
 - empirical relationship: Hall-Petor
 - small grains - stronger
-- arises from interaction of grain boundary + dislocation; not well understood
+- arises from interaction of grain boundary + dislocation; not well
+understood
+
+
 ## Strengthening: summary
 - yield strength is lattice resistance + sum of all strengthening
   mechanism in alloy
