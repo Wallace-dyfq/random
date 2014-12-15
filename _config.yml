@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This Site contain random staff,as the name manifests itself. By saying random I mean something like a black hole, there might be anything in it, or nothing. 
 baseurl: /random/ # the subpath of your site, e.g. /blog/
 url:  http://wallace-dyfq.github.io # the base hostname & protocol for your site
-twitter_username: 373167780
+twitter_username: wallace_dyfq
 github_username:  wallace-dyfq
 
 # Build settings
