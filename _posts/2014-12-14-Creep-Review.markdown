@@ -72,3 +72,30 @@ have to consider
   
 
 
+# Mechanism of power law creep: dislocation climb
+- alloying elements are abstacles to dislocation glide
+- diffusion can allow dislocation to "climb" around obstacles +
+  continuous glide
+ - consider dislocation hitting obatacle (eg. precipate) at \sigma = \sigma_y
+
+# Power law creep: dislocation climb
+- dislocation can "climbs" around an obstacle and continue to glide
+until it hits the next obstacle: process of climb + glide repeated.
+- power law creep data
+# Deformation mechanism map
+- various mechanism of deformation
+  + elastic
+  + plastic
+  + creep - diffusional flow - bulk (vacancy) diffusion
+                             - grain boundary diffusion
+          - power law creep  - low temp: core diffusion
+                             - high temp: bulk diffusion
+- over all behavior summarized in deformation mechanism map
+- plasticity + creep depends on equivalent stress
+
+# Creep fracture
+- secondary creep important if design limited by creep strain
+- also have to consider creep fracture
+- caused by coalescance of voids caused by diffusion material leaves
+  inclined boundaries to be deposited on horizontal areas
+- empirical relation: Monkman-Grant equation
